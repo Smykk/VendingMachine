@@ -38,4 +38,6 @@ public class AlphaNumericChooser extends AbstractChooser {
         int columnAsInt = Integer.parseInt(columnInput);
         return columnAsInt - 1;
     }
+
+
 }

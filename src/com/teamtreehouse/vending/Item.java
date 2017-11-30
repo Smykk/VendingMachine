@@ -19,6 +19,8 @@ public class Item {
         return wholesalePrice;
     }
 
+
+
     public int getRetailPrice() {
         return retailPrice;
     }
